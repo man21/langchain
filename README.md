@@ -1,6 +1,6 @@
 # LangChain
 
-Welcome to the LangChain Crash Course repository! This repo contains all the code examples you'll need to follow along with the LangChain Master Class for Beginners video. By the end of this course, you'll know how to use LangChain to create your own AI agents, build RAG chatbots, and automate tasks with AI.
+Welcome to the LangChain tutorial repository! This repo contains all the code examples. By the end of this course, you'll know how to use LangChain to create your own AI agents, build RAG chatbots, and automate tasks with AI.
 
 ## Course Outline
 - **Setup Environment**
@@ -70,6 +70,11 @@ Understand the basics of prompt templates and how to use them effectively.
 ### 3. Chains
 Explore how to create and use chains to link various components together.
 
+- `1_chains_basics.py`
+- `2_chains_using_runnable.py`
+- `3_chains_using_runnable_example2.py`
+- `4_chains_parallel.py`
+- `5_chains_branching.py`
 ---
 
 Feel free to explore, learn, and build amazing AI applications with LangChain. If you encounter any issues, please open an issue or submit a pull request.
